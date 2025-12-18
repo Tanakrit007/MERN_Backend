@@ -4,8 +4,8 @@
     "summary": "ทีมชาติไทยโชว์ฟอร์มยอดเยี่ยม เอาชนะเวียดนาม 2-1 คว้าแชมป์อาเซียนคัพ 2025",
     "content": "การแข่งขันฟุตบอลอาเซียนคัพ 2025 รอบชิงชนะเลิศ ทีมชาติไทยสามารถเอาชนะทีมชาติเวียดนามไปด้วยสกอร์ 2-1 จากประตูชัยในช่วงท้ายเกม สร้างความดีใจให้แฟนบอลทั่วประเทศ",
     "cover": "https://example.com/images/thailand-vietnam.jpg",
-    "Image": "https://example.com/images/thailand-vietnam-detail.jpg",
     "author": "64f1a2b3c4d5e6f789012301",
+    "Image": "https://example.com/images/thailand-vietnam-detail.jpg",
     "createdAt": "2025-12-01T10:00:00.000Z"
   },
   {
@@ -13,8 +13,8 @@
     "summary": "ลิเวอร์พูลโชว์ฟอร์มโหด เปิดแอนฟิลด์ถล่มแมนเชสเตอร์ ยูไนเต็ด 4-0",
     "content": "ศึกพรีเมียร์ลีกอังกฤษ ลิเวอร์พูลเล่นได้อย่างเหนือชั้น เปิดบ้านถล่มแมนเชสเตอร์ ยูไนเต็ด 4-0 โดยได้ประตูจากแนวรุกที่เฉียบคมตลอดทั้งเกม",
     "cover": "https://example.com/images/liverpool-manutd.jpg",
-    "Image": "https://example.com/images/liverpool-manutd-detail.jpg",
     "author": "64f1a2b3c4d5e6f789012301",
+    "Image": "https://example.com/images/liverpool-manutd-detail.jpg",
     "createdAt": "2025-12-02T09:30:00.000Z"
   },
   {
