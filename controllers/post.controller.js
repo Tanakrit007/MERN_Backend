@@ -2,8 +2,8 @@ const PostModel = require("../models/Post");
 
 // Create a new post สร้างโพสต์ใหม่
 exports.createPost = async (req, res) => {
-  const { title, summary, content, cover, author } = req.body;
-  if (!title || !summary || !content || !cover || !author) {
+  const { title, summary, content, cover, author: username } = req.body;
+  if (!title || !summary || !content || !cover || !username) {
     return res.status(400).send({ message: "กรุณากรอกข้อมูลให้ครบถ้วน" });
   }
   try {
@@ -19,7 +19,7 @@ exports.createPost = async (req, res) => {
       summary,
       content,
       cover,
-      author,
+      author: user._id,
     });
 
     if (!postDoc) {

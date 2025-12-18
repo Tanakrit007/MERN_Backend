@@ -6,6 +6,6 @@ const Postcontroller = require("../controllers/post.controller");
 router.post("/createpost", Postcontroller.createPost);
 
 // GET http://localhost:5000/api/v1/posts/allpost
-router.get("/allpost", Postcontroller.getAllPost);
+// router.get("/allpost", Postcontroller.getAllPost);
 
 module.exports = router;
